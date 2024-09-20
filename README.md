@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # expenser-client-side
 client-side for splitwise clone
@@ -73,8 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-=======
-# expenser-client-side
-client-side for splitwise clone
->>>>>>> 3210609aaf15ec6f3cf45310c548f3fbf95b1da8
